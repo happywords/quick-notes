@@ -1,5 +1,6 @@
 var btn_save = document.getElementById('btn-save');
 var btn_clear = document.getElementById('btn-clear');
+var div_notes = document.getElementById('notes');
 
 btn_save.onclick = function() {
   alert("Saved");
@@ -7,6 +8,6 @@ btn_save.onclick = function() {
 };
 
 btn_clear.onclick = function() {
-  alert("Clear");
+  div_notes.innerHTML = "";
   return false;
 };
