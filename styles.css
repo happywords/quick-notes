@@ -1,5 +1,7 @@
 body {
   background: #EEEEEE;
+  font-size: 1.8em !important;
+  color: #111111
 }
 
 div#notes {
