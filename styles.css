@@ -1,6 +1,6 @@
 body {
   background: #EEEEEE;
-  font-size: 1.8em !important;
+  font-size: 1.8em;
   color: #111111
 }
 
@@ -15,4 +15,21 @@ div#controls {
   margin: auto;
   padding: 20px;
   width: 80%;
+}
+
+p.text-center {
+  text-align: center;
+  font-size: 0.8em;
+}
+
+p.text-center a {
+  color: #999999;
+}
+
+p.text-center a:hover {
+  color: #111111;
+}
+
+button {
+  padding: 10px;
 }
