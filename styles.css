@@ -8,3 +8,9 @@ div#notes {
   padding: 20px;
   width: 80%;
 }
+
+div#controls {
+  margin: auto;
+  padding: 20px;
+  width: 80%;
+}
