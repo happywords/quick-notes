@@ -1,3 +1,10 @@
 body {
-  background: red;
+  background: #EEEEEE;
+}
+
+div#notes {
+  background: #FFFFFF;
+  margin: auto;
+  padding: 20px;
+  width: 80%;
 }

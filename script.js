@@ -1,1 +1,1 @@
-alert("ZZZ");
+console.log("Loaded")
